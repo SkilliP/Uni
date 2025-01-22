@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "717e7bbe7744f3b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec8b8f4280d8a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c6ee0ddd979ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Pre-Analisi/0 Numeri Naturali/5 Espressioni.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 Espressioni"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad73881afd17ddf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "50a8b43d1e91ed3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90d9eb8bd561b074",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24082af8b134a4b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0a85922c04bebe9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "43f69348c85fe339",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff5c366f747bac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec3de8dda31b133c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a3634317d4d4a27c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analisi I & Geometria/0 Insiemi/3 Relazioni Binarie.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3 Relazioni Binarie"
+            }
+          },
+          {
+            "id": "0346d507b0ba8c61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analisi I & Geometria/0 Insiemi/3 Relazioni Binarie.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3 Relazioni Binarie"
+            }
+          },
+          {
+            "id": "39e532321862fa41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analisi I/I Numeri/Insiemi.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Insiemi"
+            }
+          },
+          {
+            "id": "4c22b2267371a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "21c6ee0ddd979ef1",
+  "lastOpenFiles": [
+    "0 Pre-Analisi/0 Numeri Naturali/4.1 Massimo Comun Divisore.md",
+    "0 Pre-Analisi/0 Numeri Naturali/5 Espressioni.md",
+    "0 Pre-Analisi/0 Numeri Naturali/4 Minimo Comune Multiplo.md",
+    "0 Pre-Analisi/0 Numeri Naturali/3 Scomposizione in Fattori Primi.md",
+    "0 Pre-Analisi/0 Numeri Naturali/2 Potenze nell'insieme dei numeri Naturali.md",
+    "1 Analisi I & Geometria/0 Insiemi/3 Relazioni Binarie.md",
+    "0 Pre-Analisi/0 Numeri Naturali/1 Leggi di Composizione nell'insieme dei numeri Naturali.md",
+    "0 Pre-Analisi/0 Numeri Naturali/0 Numeri Naturali.md",
+    "0 Pre-Analisi/0 Numeri Naturali",
+    "Untitled.md",
+    "1 Analisi I & Geometria/0 Insiemi/2 Operazioni tra Insiemi.md",
+    "1 Analisi I & Geometria/0 Insiemi/1 Insiemi.md",
+    "1 Analisi I & Geometria/0 Insiemi/0 Glossario dei simboli.md",
+    "Prova desmosPlot.md",
+    "1 Analisi I & Geometria/0 Insiemi/SetTheory.png",
+    "0 Pre-Analisi",
+    "SetTheory.png",
+    "1 Analisi I & Geometria/1 Funzioni"
+  ]
+}

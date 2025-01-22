@@ -1,0 +1,29 @@
+.desmos-graph {
+
+	display: block;
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+}
+
+.desmos-graph rect {
+
+	fill: none;
+
+}
+
+.desmos-graph text {
+
+	fill: #ffffff;
+
+	stroke: none;
+
+}
+
+.dcg-svg-axis-line {stroke: #ffffff;}
+
+.dcg-svg-minor-gridline {stroke: #ffffff;}
+
+.dcg-svg-major-gridline {stroke: #ffffff;} 
