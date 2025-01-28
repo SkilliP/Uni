@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6ec8b8f4280d8a78",
+        "id": "a5a18ca0c8c89240",
         "type": "tabs",
         "children": [
           {
-            "id": "21c6ee0ddd979ef1",
+            "id": "e32a1ce2aa78532e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Pre-Analisi/0 Numeri Naturali/5 Espressioni.md",
+                "file": "0 Pre-Analisi/2 Numeri Razionali/5 Potenze con Esponenti Negativi e con le Frazioni.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Espressioni"
+              "title": "5 Potenze con Esponenti Negativi e con le Frazioni"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.50260543823242
   },
   "right": {
     "id": "43f69348c85fe339",
@@ -175,21 +175,35 @@
       "graph:Open graph view": false
     }
   },
-  "active": "21c6ee0ddd979ef1",
+  "active": "90d9eb8bd561b074",
   "lastOpenFiles": [
-    "0 Pre-Analisi/0 Numeri Naturali/4.1 Massimo Comun Divisore.md",
+    "0 Pre-Analisi/3 Monomi",
+    "0 Pre-Analisi/Untitled.md",
+    "0 Pre-Analisi/2 Numeri Razionali/5 Potenze con Esponenti Negativi e con le Frazioni.md",
+    "0 Pre-Analisi/2 Numeri Razionali/4.1 Frazione di Frazione.md",
+    "0 Pre-Analisi/2 Numeri Razionali/4 Operazioni con i Numeri Razionali.md",
+    "1 Analisi I & Geometria/0 Insiemi/0 Glossario dei simboli.md",
+    "0 Pre-Analisi/2 Numeri Razionali/3 Da numero Decimale a Frazione.md",
+    "0 Pre-Analisi/2 Numeri Razionali/1 Numeri Decimali.md",
+    "0 Pre-Analisi/2 Numeri Razionali/0 Numeri Razionali.md",
+    "0 Pre-Analisi/1 Numeri Relativi/2 Potenze con Numeri Relativi.md",
+    "0 Pre-Analisi/2 Numeri Razionali",
+    "0 Pre-Analisi/0 Numeri Naturali/2 Potenze nell'insieme dei numeri Naturali.md",
+    "0 Pre-Analisi/1 Numeri Relativi/1 Operazioni di base con i Numeri Relativi.md",
+    "0 Pre-Analisi/0 Numeri Naturali/1 Leggi di Composizione nell'insieme dei numeri Naturali.md",
+    "0 Pre-Analisi/1 Numeri Relativi/0 Numeri Relativi.md",
+    "0 Pre-Analisi/1 Numeri Relativi",
     "0 Pre-Analisi/0 Numeri Naturali/5 Espressioni.md",
+    "Analisi I/I Numeri/I simboli.md",
+    "0 Pre-Analisi/0 Numeri Naturali/4.1 Massimo Comun Divisore.md",
     "0 Pre-Analisi/0 Numeri Naturali/4 Minimo Comune Multiplo.md",
     "0 Pre-Analisi/0 Numeri Naturali/3 Scomposizione in Fattori Primi.md",
-    "0 Pre-Analisi/0 Numeri Naturali/2 Potenze nell'insieme dei numeri Naturali.md",
     "1 Analisi I & Geometria/0 Insiemi/3 Relazioni Binarie.md",
-    "0 Pre-Analisi/0 Numeri Naturali/1 Leggi di Composizione nell'insieme dei numeri Naturali.md",
     "0 Pre-Analisi/0 Numeri Naturali/0 Numeri Naturali.md",
     "0 Pre-Analisi/0 Numeri Naturali",
     "Untitled.md",
     "1 Analisi I & Geometria/0 Insiemi/2 Operazioni tra Insiemi.md",
     "1 Analisi I & Geometria/0 Insiemi/1 Insiemi.md",
-    "1 Analisi I & Geometria/0 Insiemi/0 Glossario dei simboli.md",
     "Prova desmosPlot.md",
     "1 Analisi I & Geometria/0 Insiemi/SetTheory.png",
     "0 Pre-Analisi",

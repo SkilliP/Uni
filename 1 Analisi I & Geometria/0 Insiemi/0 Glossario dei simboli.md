@@ -19,6 +19,7 @@ $\emptyset$ come **insieme vuoto**.
  
  $\exists$ ovvero "**esiste almeno un**". Esempio: "$\exists x \in A$ tale che $x \in B$ "  equivale a dichiarare che esiste almeno un elemento $x$ in $A$ che si trova anche in $B$, il che significa che $A \cap B$ non è vuoto.
 
+23/01/2025
 ##### Altri simboli
 $\exists!$ ovvero "**esiste un unico**". Esempio "$\exists! \space x \in A$ tale che $x \in B$" equivale a dire che esiste un solo elemento di A che esiste anche in B, quindi $A \cap B$ è costituito da un solo elemento.
 
@@ -27,3 +28,7 @@ $:$ oppure $|$ ovvero "**tale che**". Esempio $\exists! \space x \in A : x \in B
 $\Longrightarrow$ ovvero "**implica**". Esempio: "$x \in A \Longrightarrow x \in B$" equivale a dichiarare che se se $x\in A$ allora $x\in B$, quindi $A \subseteq B$. Può essere anche scritto al contrario "$\Longleftarrow$"e ha significato di   $B \supseteq A$.
 
 $\Longleftrightarrow$ ovvero "**se e solo se**" è una doppia implicazione e ci dice che due enunciati a confronto solo equivalenti. Esempio "$x \in A \Longleftrightarrow x \in B$" equivale a dichiarare che $A = B$.
+
+$\pm, \space \mp$ si leggono rispettivamente "**più o meno**" e "**meno o più**".
+
+$\cdot$ è il simbolo usato per indicare la moltiplicazione, in quanto la $\times$ potrebbe generare confusione in altri contesti.
