@@ -1,5 +1,3 @@
-#### Interne
-
 Le leggi di composizione sono leggi che descrivono come due elementi di un insieme possono essere uniti in un terzo elemento e si definiscono interne perchè non è possibile usando queste leggi uscire dall'insieme $\mathbb{N}$, nel caso nell'insieme $\mathbb{N}$ esse sono soltanto l'addizione e la moltiplicazione, infatti la somma e l'addizione di due numeri naturali darà sempre un numero naturale.
 ###### Esempi
 

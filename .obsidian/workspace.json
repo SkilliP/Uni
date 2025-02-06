@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e32a1ce2aa78532e",
+            "id": "7ff236803f1de622",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Pre-Analisi/2 Numeri Razionali/5 Potenze con Esponenti Negativi e con le Frazioni.md",
+                "file": "0 Pre-Analisi/3 Monmi/2 MCM e mcd con Monomi.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "5 Potenze con Esponenti Negativi e con le Frazioni"
+              "title": "2 MCM e mcd con Monomi"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -177,20 +187,26 @@
   },
   "active": "90d9eb8bd561b074",
   "lastOpenFiles": [
-    "0 Pre-Analisi/3 Monomi",
-    "0 Pre-Analisi/Untitled.md",
+    "0 Pre-Analisi/4 Polinomi",
+    "0 Pre-Analisi/3 Monmi/1 Operazioni con i Monomi.md",
+    "0 Pre-Analisi/3 Monmi/2 MCM e mcd con Monomi.md",
+    "0 Pre-Analisi/2 Numeri Razionali/0 Numeri Razionali.md",
+    "0 Pre-Analisi/1 Numeri Relativi/1 Operazioni di base con i Numeri Relativi.md",
     "0 Pre-Analisi/2 Numeri Razionali/5 Potenze con Esponenti Negativi e con le Frazioni.md",
     "0 Pre-Analisi/2 Numeri Razionali/4.1 Frazione di Frazione.md",
-    "0 Pre-Analisi/2 Numeri Razionali/4 Operazioni con i Numeri Razionali.md",
-    "1 Analisi I & Geometria/0 Insiemi/0 Glossario dei simboli.md",
-    "0 Pre-Analisi/2 Numeri Razionali/3 Da numero Decimale a Frazione.md",
     "0 Pre-Analisi/2 Numeri Razionali/1 Numeri Decimali.md",
-    "0 Pre-Analisi/2 Numeri Razionali/0 Numeri Razionali.md",
+    "0 Pre-Analisi/3 Monmi/0 Monomi.md",
+    "1 Analisi I & Geometria/0 Insiemi/0 Glossario dei simboli.md",
+    "0 Pre-Analisi/3 Monmi",
+    "0 Pre-Analisi/0 Numeri Naturali/1 Leggi di Composizione nell'insieme dei numeri Naturali.md",
+    "0 Pre-Analisi/0 Numeri Naturali/0 Numeri Naturali.md",
+    "0 Pre-Analisi/3 Monomi",
+    "0 Pre-Analisi/Untitled.md",
+    "0 Pre-Analisi/2 Numeri Razionali/4 Operazioni con i Numeri Razionali.md",
+    "0 Pre-Analisi/2 Numeri Razionali/3 Da numero Decimale a Frazione.md",
     "0 Pre-Analisi/1 Numeri Relativi/2 Potenze con Numeri Relativi.md",
     "0 Pre-Analisi/2 Numeri Razionali",
     "0 Pre-Analisi/0 Numeri Naturali/2 Potenze nell'insieme dei numeri Naturali.md",
-    "0 Pre-Analisi/1 Numeri Relativi/1 Operazioni di base con i Numeri Relativi.md",
-    "0 Pre-Analisi/0 Numeri Naturali/1 Leggi di Composizione nell'insieme dei numeri Naturali.md",
     "0 Pre-Analisi/1 Numeri Relativi/0 Numeri Relativi.md",
     "0 Pre-Analisi/1 Numeri Relativi",
     "0 Pre-Analisi/0 Numeri Naturali/5 Espressioni.md",
@@ -199,12 +215,9 @@
     "0 Pre-Analisi/0 Numeri Naturali/4 Minimo Comune Multiplo.md",
     "0 Pre-Analisi/0 Numeri Naturali/3 Scomposizione in Fattori Primi.md",
     "1 Analisi I & Geometria/0 Insiemi/3 Relazioni Binarie.md",
-    "0 Pre-Analisi/0 Numeri Naturali/0 Numeri Naturali.md",
     "0 Pre-Analisi/0 Numeri Naturali",
     "Untitled.md",
     "1 Analisi I & Geometria/0 Insiemi/2 Operazioni tra Insiemi.md",
-    "1 Analisi I & Geometria/0 Insiemi/1 Insiemi.md",
-    "Prova desmosPlot.md",
     "1 Analisi I & Geometria/0 Insiemi/SetTheory.png",
     "0 Pre-Analisi",
     "SetTheory.png",

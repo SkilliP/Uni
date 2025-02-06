@@ -1,4 +1,3 @@
-21/01/25
 
 >[!danger] Non tutti i termini usati verrano spiegati immediatamente, ma verranno ripresi in futuro e approfonditi. 
 
