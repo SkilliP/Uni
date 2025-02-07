@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Pre-Analisi/4 Polinomi/1 Operazioni con i Polinomi.md",
+                "file": "0 Pre-Analisi/4 Polinomi/2 Regola di Ruffini.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1 Operazioni con i Polinomi"
+              "title": "2 Regola di Ruffini"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "7ff236803f1de622",
   "lastOpenFiles": [
-    "0 Pre-Analisi/4 Polinomi/0 Polinomi.md",
     "0 Pre-Analisi/4 Polinomi/1 Operazioni con i Polinomi.md",
+    "0 Pre-Analisi/4 Polinomi/2 Regola di Ruffini.md",
+    "0 Pre-Analisi/4 Polinomi/0 Polinomi.md",
     "0 Pre-Analisi/3 Monmi/2 MCM e mcd con Monomi.md",
     "0 Pre-Analisi/4 Polinomi",
     "0 Pre-Analisi/3 Monmi/1 Operazioni con i Monomi.md",
@@ -218,7 +219,6 @@
     "0 Pre-Analisi/0 Numeri Naturali/3 Scomposizione in Fattori Primi.md",
     "1 Analisi I & Geometria/0 Insiemi/3 Relazioni Binarie.md",
     "0 Pre-Analisi/0 Numeri Naturali",
-    "Untitled.md",
     "1 Analisi I & Geometria/0 Insiemi/SetTheory.png",
     "0 Pre-Analisi",
     "SetTheory.png",

@@ -40,3 +40,6 @@ Ora dobbiamo solo distrubuire i fattori della moltiplicazione:
 $$6a^2+10ab-2a - 3ab - 5b^2 + b$$
 Ora possiamo semplificare tra di loro i monomi simili:
 $$6a^2-7ab-2a-5b^2+b$$
+#### Divisione
+
+[E' più semplice così che scriverlo](https://youtu.be/qv0hHLG0Wxw?list=PLW4IfhQEjCpKskJmGwAlpLGF0AkvVx9rw)
