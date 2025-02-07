@@ -40,6 +40,14 @@ Ora dobbiamo solo distrubuire i fattori della moltiplicazione:
 $$6a^2+10ab-2a - 3ab - 5b^2 + b$$
 Ora possiamo semplificare tra di loro i monomi simili:
 $$6a^2-7ab-2a-5b^2+b$$
-#### Divisione
+#### Divisione tra Polinomi
 
 [E' più semplice così che scriverlo](https://youtu.be/qv0hHLG0Wxw?list=PLW4IfhQEjCpKskJmGwAlpLGF0AkvVx9rw)
+
+#### Divisione tra un Polinomio ed un Monomio
+
+Esempio:
+$$(4x^4y^3z^5-8x^5y^2+x^6y^4) : (2x^2y)$$
+Ora non dobbiamo fare altro se non dividere ogni monomio che compone il polinomio per il monomio al divisore, in poche parole dobbiamo applicare la proprietà distributiva.
+$$2x^2y^2z^5 - 4x^3y + {1 \over 2}x^4y^3$$
+E' un mezzo perchè facciamo $1 : 2$ ma l'uno è sottointeso.
